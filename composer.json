@@ -1,0 +1,17 @@
+{
+    "name": "grigory/hexlet-test",
+    "autoload": {
+        "files": [
+            "src/StringUtils.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Grigory Tydykov",
+            "email": "tydykov2022@mail.ru"
+        }
+    ],
+    "require": {
+        "webmozart/assert": "^1.10"
+    }
+}
