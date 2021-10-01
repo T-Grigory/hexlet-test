@@ -2,7 +2,8 @@
     "name": "grigory/hexlet-test",
     "autoload": {
         "files": [
-            "src/StringUtils.php"
+            "src/StringUtils.php",
+            "tests/StringUtilsTest.php"
         ]
     },
     "authors": [
